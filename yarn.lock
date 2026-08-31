@@ -3565,6 +3565,10 @@ nodemailer@^6.3.1:
   version "6.6.3"
   resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-6.6.3.tgz#31fb53dd4d8ae16fc088a65cb9ffa8d928a69b48"
 
+nodemailer@^9.0.6:
+  version "9.0.6"
+  resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-9.0.6.tgz#4f3f6b902043823aec98f7b1ee0e3b418c574596"
+
 nodemon@^2.0.1, nodemon@^2.0.4:
   version "2.0.7"
   resolved "https://registry.npmjs.org/nodemon/-/nodemon-2.0.7.tgz"
