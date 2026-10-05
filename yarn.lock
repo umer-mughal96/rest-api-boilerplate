@@ -3408,15 +3408,21 @@ module-details-from-path@^1.0.3:
   version "1.0.3"
   resolved "https://registry.npmjs.org/module-details-from-path/-/module-details-from-path-1.0.3.tgz"
 
-moment-timezone@^0.5.13, moment-timezone@^0.5.x:
+moment-timezone@^0.5.x:
   version "0.5.33"
   resolved "https://registry.yarnpkg.com/moment-timezone/-/moment-timezone-0.5.33.tgz#b252fd6bb57f341c9b59a5ab61a8e51a73bbd22c"
   dependencies:
     moment ">= 2.9.0"
 
-"moment@>= 2.9.0", moment@^2.24.0:
-  version "2.24.0"
-  resolved "https://registry.npmjs.org/moment/-/moment-2.24.0.tgz"
+moment-timezone@^0.6.5:
+  version "0.6.5"
+  resolved "https://registry.yarnpkg.com/moment-timezone/-/moment-timezone-0.6.5.tgz#a8153ebe88199bd76f2d2ce329eb1d568eafbdee"
+  dependencies:
+    moment "^2.29.4"
+
+"moment@>= 2.9.0", moment@^2.24.0, moment@^2.29.4:
+  version "2.31.0"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.31.0.tgz#6e19184e8005a9dfc61c9351263d4d6ea2ace7aa"
 
 mongodb@3.6.10:
   version "3.6.10"
