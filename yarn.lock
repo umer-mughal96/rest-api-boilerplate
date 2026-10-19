@@ -3561,6 +3561,10 @@ node-releases@^1.1.71:
   version "1.1.73"
   resolved "https://registry.npmjs.org/node-releases/-/node-releases-1.1.73.tgz"
 
+nodemailer@^10.1.2:
+  version "10.1.2"
+  resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-10.1.2.tgz#2eb546140635aa79d22006ad3240915ba730f9b6"
+
 nodemailer@^6.3.1:
   version "6.6.3"
   resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-6.6.3.tgz#31fb53dd4d8ae16fc088a65cb9ffa8d928a69b48"
