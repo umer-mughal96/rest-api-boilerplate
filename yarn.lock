@@ -2962,9 +2962,9 @@ jws@^3.1.5:
     jwa "^1.1.5"
     safe-buffer "^5.0.1"
 
-jwt-simple@0.5.6:
-  version "0.5.6"
-  resolved "https://registry.npmjs.org/jwt-simple/-/jwt-simple-0.5.6.tgz"
+jwt-simple@0.6.1:
+  version "0.6.1"
+  resolved "https://registry.yarnpkg.com/jwt-simple/-/jwt-simple-0.6.1.tgz#e98140232afdffd3a2fcdcafbfcf4b15942d0051"
 
 kareem@2.3.2:
   version "2.3.2"
